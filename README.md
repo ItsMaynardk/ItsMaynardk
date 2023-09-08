@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmaynardk" alt="itsmaynardk" /></a> </p>
 
-## Certificate
-[]
+## Certificates
+(https://drive.google.com/drive/folders/1Urm-x-LdF1pG3INsaiQKIVOOTUknrxOw?usp=sharing)
 
 - 📫 How to reach me **maynardk.atienza@gmail.com**
 
