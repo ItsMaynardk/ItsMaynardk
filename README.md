@@ -7,7 +7,16 @@
 
 ## Certificates
 • [Business Analytics with Excel](https://drive.google.com/file/d/1nKNjl79L-TV3EmObkgz9yeUjMneCMXp7/view?usp=sharing)
-•
+• [ChatGPT Impact on Students](https://drive.google.com/file/d/1yl3ORQY00SsOGw12MTegMA0KO3KV2LGw/view?usp=sharing)
+• [Cyber Security](https://drive.google.com/file/d/1oS3jbNm_3sEtwmgwqGaVaY2qcVK97iPw/view?usp=sharing)
+• [Introduction to data visualization](https://drive.google.com/file/d/1DhsGSbCAI3-CGH2K_Hfr67D8hSm6zziE/view?usp=sharing)
+• [Oracle Cloud Data Management 2022 foundations associate](https://drive.google.com/file/d/1AqQNdYjfn35Y_BvgDID_69FggAgHVwcK/view?usp=sharing)
+• [Oracle Cloud Infrastructure 2022](https://drive.google.com/file/d/1vkA-I068KFChWC3aMNF4Lxj96ficf0Po/view?usp=sharing)
+• [Profitable Developer](https://drive.google.com/file/d/1IJLURBtGE5aD_AZkzTGGOKkvY5RuOGzy/view?usp=sharing)
+• [SQL and Relational databases 101](https://drive.google.com/file/d/1zgxK12UYkGCmlrQCQ3vyt58hf8MzXWtH/view?usp=sharing)
+• [Tech 101 Webinar](https://drive.google.com/file/d/1GyfvhgCB-EXATCCJ-WmtkFgNipHOo0hS/view?usp=sharing)
+• [Ubuntu Fundamentals](https://drive.google.com/file/d/1RhiZL-hei0cIQtQivqwF87w8NtmC6Ivw/view?usp=sharing)
+• [Version Control Webinar](https://drive.google.com/file/d/1k_FLfp7x_Yx00dXy9NQGHu3ihUcXqrSY/view?usp=sharing)
 
 - 📫 How to reach me **maynardk.atienza@gmail.com**
 
