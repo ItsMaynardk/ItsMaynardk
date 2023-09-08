@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmaynardk" alt="itsmaynardk" /></a> </p>
 
+h## Certificate
+
 - 📫 How to reach me **maynardk.atienza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
