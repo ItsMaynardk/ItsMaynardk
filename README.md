@@ -18,7 +18,7 @@
 - [Ubuntu Fundamentals](https://drive.google.com/file/d/1RhiZL-hei0cIQtQivqwF87w8NtmC6Ivw/view?usp=sharing)
 - [Version Control Webinar](https://drive.google.com/file/d/1k_FLfp7x_Yx00dXy9NQGHu3ihUcXqrSY/view?usp=sharing)
 
-- 📫 How to reach me **maynardk.atienza@gmail.com**
+📫 How to reach me **maynardk.atienza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
