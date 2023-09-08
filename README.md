@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmaynardk" alt="itsmaynardk" /></a> </p>
 
 ## Certificates
-(https://drive.google.com/drive/folders/1Urm-x-LdF1pG3INsaiQKIVOOTUknrxOw?usp=sharing)
+• [Business Analytics with Excel](https://drive.google.com/file/d/1nKNjl79L-TV3EmObkgz9yeUjMneCMXp7/view?usp=sharing)
+•
 
 - 📫 How to reach me **maynardk.atienza@gmail.com**
 
