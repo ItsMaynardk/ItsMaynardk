@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmaynardk" alt="itsmaynardk" /></a> </p>
 
 - 🌱 I’m currently learning **Cyber Security, Python, JS, HTML, CSS**
-- ## Certificates
+   ## Certificates
 - [Business Analytics with Excel](https://drive.google.com/file/d/1nKNjl79L-TV3EmObkgz9yeUjMneCMXp7/view?usp=sharing)
 - [ChatGPT Impact on Students](https://drive.google.com/file/d/1yl3ORQY00SsOGw12MTegMA0KO3KV2LGw/view?usp=sharing)
 - [Cyber Security](https://drive.google.com/file/d/1oS3jbNm_3sEtwmgwqGaVaY2qcVK97iPw/view?usp=sharing)
