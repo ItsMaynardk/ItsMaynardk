@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmaynardk" alt="itsmaynardk" /></a> </p>
 
-## Certificates
+- 🌱 I’m currently learning **Cyber Security, Python, JS, HTML, CSS**
+- ## Certificates
 - [Business Analytics with Excel](https://drive.google.com/file/d/1nKNjl79L-TV3EmObkgz9yeUjMneCMXp7/view?usp=sharing)
 - [ChatGPT Impact on Students](https://drive.google.com/file/d/1yl3ORQY00SsOGw12MTegMA0KO3KV2LGw/view?usp=sharing)
 - [Cyber Security](https://drive.google.com/file/d/1oS3jbNm_3sEtwmgwqGaVaY2qcVK97iPw/view?usp=sharing)
@@ -22,6 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3bkju1tdvzragvfq4q6si20g%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3bkju1tdvzragvfq4q6si20g%3d%3d" height="30" width="40" /></a>
 <a href="https://fb.com/maynardkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maynardkk" height="30" width="40" /></a>
 </p>
 
