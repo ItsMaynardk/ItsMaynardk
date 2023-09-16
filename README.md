@@ -10,6 +10,7 @@
 - [Business Analytics with Excel](https://drive.google.com/file/d/1nKNjl79L-TV3EmObkgz9yeUjMneCMXp7/view?usp=sharing)
 - [ChatGPT Impact on Students](https://drive.google.com/file/d/1yl3ORQY00SsOGw12MTegMA0KO3KV2LGw/view?usp=sharing)
 - [Cyber Security](https://drive.google.com/file/d/1oS3jbNm_3sEtwmgwqGaVaY2qcVK97iPw/view?usp=sharing)
+- [Data Analytics Essentials](https://drive.google.com/file/d/1RUsyDiSsqNAK0Y97LK6vlb-Kf9kAqUli/view?usp=sharing)
 - [Introduction to data visualization](https://drive.google.com/file/d/1DhsGSbCAI3-CGH2K_Hfr67D8hSm6zziE/view?usp=sharing)
 - [Oracle Cloud Data Management 2022 foundations associate](https://drive.google.com/file/d/1AqQNdYjfn35Y_BvgDID_69FggAgHVwcK/view?usp=sharing)
 - [Oracle Cloud Infrastructure 2022](https://drive.google.com/file/d/1vkA-I068KFChWC3aMNF4Lxj96ficf0Po/view?usp=sharing)
