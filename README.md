@@ -5,10 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmaynardk" alt="itsmaynardk" /></a> </p>
 
-   ## Education
-   New Era University
-   Bachelor of Science in Computer Science
-   2021-2025
+   ## Educational Attainment
+   - New Era University
+   - College: New Era University (2021-2025) Bachelor of Science in Computer Science
+   - Senior Highschool: New Era University (2018 – 2020)
+   - Junior High 	: New Era University (2013 – 2018)
+   - Elementary 	: New Era University (2007 – 2013) 	
    
 
 🌱 I’m currently learning **Cyber Security, Python, JS, HTML, CSS**
