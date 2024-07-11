@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmaynardk" alt="itsmaynardk" /></a> </p>
 
+   ## Education
+   New Era University
+   Bachelor of Science in Computer Science
+   2021-2025
+   
+
 🌱 I’m currently learning **Cyber Security, Python, JS, HTML, CSS**
    ## Certificates
 - [Business Analytics with Excel](https://drive.google.com/file/d/1nKNjl79L-TV3EmObkgz9yeUjMneCMXp7/view?usp=sharing)
