@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Maynardk Atienza</h1>
 <h3 align="center">Computer Science Student</h3>
+<h3 align="center">I’m currently learning Cyber Security, Python, JS, HTML, CS</h3>
+
 
 ## Connect with me
 📫 - Email: maynardk.atienza@gmail.com
@@ -11,21 +13,19 @@
 </p>
 
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmaynardk&label=Profile%20views&color=0e75b6&style=flat" alt="itsmaynardk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmaynardk" alt="itsmaynardk" /></a> </p>
 
-  ![Educational Attainment](https://img.icons8.com/office/80/000000/graduation-cap.png)
+  ### Educational Attainment <img src="https://img.icons8.com/office/40/000000/graduation-cap.png" height="40" width="40"/>
    - College: New Era University (2021-2025) Bachelor of Science in Computer Science
    - Senior Highschool: New Era University (2018 – 2020) Information and Communications Technology
    - Junior High 	: New Era University (2013 – 2018)
    - Elementary 	: New Era University (2007 – 2013) 	
    
 
-🌱 I’m currently learning **Cyber Security, Python, JS, HTML, CSS**
-   ## Certifications
+
+   ### Certifications <img src="https://img.icons8.com/color/40/000000/certificate.png" height="40" width="40"/>
 - [Business Analytics with Excel](https://drive.google.com/file/d/1l9MuJqzNFf2IBc0FfgU9UWl7jhssfGaY/view?usp=sharing)
 - [Data Manipulation in SQL](https://drive.google.com/file/d/1scoFeu6hdoiYU3JYqYfinOcoj8zVEH84/view?usp=sharing)
 - [Data Analytics Essentials](https://drive.google.com/file/d/1IdSOmXcZkweqzaZjcetTm6PA4yczICQd/view?usp=sharing)
@@ -40,7 +40,7 @@
 - [Oracle Cloud Data Infrastructure](https://drive.google.com/file/d/1Iapr1-7kpm0uELdy79o35FDmDZBMvpUm/view?usp=sharing)
 - [SQL and Relational Databases 101](https://drive.google.com/file/d/1bCCoTWvU0nkaQwR6RFr2FUdRiAooGUOM/view?usp=sharing)
 
- # Tech Achievements
+ ### Tech Achievements <img src="https://img.icons8.com/dusk/40/000000/medal.png" height="40" width="40"/>
 
 ## Power BI Projects
 - [Snack Report Using DAX](https://app.powerbi.com/view?r=eyJrIjoiOGZkYzI1NGItODUyMi00ODk1LTlhZDQtODE4MjlmNTY0Y2Y2IiwidCI6IjI1ZWFlODJhLTJiYjktNDUyNC05MGM1LWE5YWNlMzczNGVlNCIsImMiOjEwfQ%3D%3D)
@@ -53,7 +53,7 @@
 - [Builder Pattern](https://github.com/ItsMaynardk/BuilderPattern)
 - [Decorator Pattern](https://github.com/ItsMaynardk/DecoratorPattern)
 
-# Skill Set
+### Skill Set <img src="https://img.icons8.com/fluency/40/000000/toolbox.png" height="40" width="40"/>
 
 ## Development Tools
 <p align="left">
