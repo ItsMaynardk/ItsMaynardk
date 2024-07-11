@@ -55,16 +55,6 @@
 
 # Skill Set
 
-## Data Visualization Tools
-<p align="left">
-  <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="80" height="80" />
-  </a>
-  <a href="https://public.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" width="40" height="40" />
-  </a>
-</p>
-
 ## Development Tools
 <p align="left">
   <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer">
@@ -129,6 +119,16 @@
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80" />
+  </a>
+</p>
+
+## Data Visualization Tools
+<p align="left">
+  <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="80" height="80" />
+  </a>
+  <a href="https://public.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" width="40" height="40" />
   </a>
 </p>
 
