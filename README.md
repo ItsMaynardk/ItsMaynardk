@@ -43,6 +43,7 @@
  ### Tech Achievements <img src="https://img.icons8.com/dusk/40/000000/medal.png" height="40" width="40"/>
 
 ## Power BI Projects
+- [ProfElec4 Course Report](https://app.powerbi.com/view?r=eyJrIjoiYTUzODgwMTYtODBhOC00NDFhLThhMjQtNWNlNWRiY2E3N2ZhIiwidCI6IjI1ZWFlODJhLTJiYjktNDUyNC05MGM1LWE5YWNlMzczNGVlNCIsImMiOjEwfQ%3D%3D)
 - [Snack Report Using DAX](https://app.powerbi.com/view?r=eyJrIjoiOGZkYzI1NGItODUyMi00ODk1LTlhZDQtODE4MjlmNTY0Y2Y2IiwidCI6IjI1ZWFlODJhLTJiYjktNDUyNC05MGM1LWE5YWNlMzczNGVlNCIsImMiOjEwfQ%3D%3D)
 - [Soda Report for the Year 2022](https://app.powerbi.com/view?r=eyJrIjoiYTY0ZTgyZDQtYTU0Zi00OWY3LTg1OGYtNzNiM2ViNjMyM2Y4IiwidCI6IjI1ZWFlODJhLTJiYjktNDUyNC05MGM1LWE5YWNlMzczNGVlNCIsImMiOjEwfQ%3D%3D)
 
