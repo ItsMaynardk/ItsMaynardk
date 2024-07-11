@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm John Maynardk Atienza</h1>
-<h3 align="center">A hardworking Computer Science Student</h3>
+<h3 align="center">Computer Science Student</h3>
+📫 Email: **maynardk.atienza@gmail.com**
+📞 Contact: **maynardk.atienza@gmail.com**
+   Linkedin: [https://www.linkedin.com/in/john-maynardk-atienza-a6a1b5290/](https://www.linkedin.com/in/john-maynardk-atienza-a6a1b5290/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmaynardk&label=Profile%20views&color=0e75b6&style=flat" alt="itsmaynardk" /> </p>
 
@@ -13,7 +16,7 @@
    
 
 🌱 I’m currently learning **Cyber Security, Python, JS, HTML, CSS**
-   ## Certificates
+   ## Certifications
 - [Business Analytics with Excel](https://drive.google.com/file/d/1l9MuJqzNFf2IBc0FfgU9UWl7jhssfGaY/view?usp=sharing)
 - [Data Manipulation in SQL](https://drive.google.com/file/d/1scoFeu6hdoiYU3JYqYfinOcoj8zVEH84/view?usp=sharing)
 - [Data Analytics Essentials](https://drive.google.com/file/d/1IdSOmXcZkweqzaZjcetTm6PA4yczICQd/view?usp=sharing)
@@ -28,7 +31,6 @@
 - [Oracle Cloud Data Infrastructure](https://drive.google.com/file/d/1Iapr1-7kpm0uELdy79o35FDmDZBMvpUm/view?usp=sharing)
 - [SQL and Relational Databases 101](https://drive.google.com/file/d/1bCCoTWvU0nkaQwR6RFr2FUdRiAooGUOM/view?usp=sharing)
 
-📫 How to reach me **maynardk.atienza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
