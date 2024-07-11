@@ -6,27 +6,27 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmaynardk" alt="itsmaynardk" /></a> </p>
 
    ## Educational Attainment
-   - New Era University
    - College: New Era University (2021-2025) Bachelor of Science in Computer Science
-   - Senior Highschool: New Era University (2018 – 2020)
+   - Senior Highschool: New Era University (2018 – 2020) Information and Communications Technology
    - Junior High 	: New Era University (2013 – 2018)
    - Elementary 	: New Era University (2007 – 2013) 	
    
 
 🌱 I’m currently learning **Cyber Security, Python, JS, HTML, CSS**
    ## Certificates
-- [Business Analytics with Excel](https://drive.google.com/file/d/1nKNjl79L-TV3EmObkgz9yeUjMneCMXp7/view?usp=sharing)
-- [ChatGPT Impact on Students](https://drive.google.com/file/d/1yl3ORQY00SsOGw12MTegMA0KO3KV2LGw/view?usp=sharing)
-- [Cyber Security](https://drive.google.com/file/d/1oS3jbNm_3sEtwmgwqGaVaY2qcVK97iPw/view?usp=sharing)
-- [Data Analytics Essentials](https://drive.google.com/file/d/1RUsyDiSsqNAK0Y97LK6vlb-Kf9kAqUli/view?usp=sharing)
-- [Introduction to data visualization](https://drive.google.com/file/d/1DhsGSbCAI3-CGH2K_Hfr67D8hSm6zziE/view?usp=sharing)
-- [Oracle Cloud Data Management 2022 foundations associate](https://drive.google.com/file/d/1AqQNdYjfn35Y_BvgDID_69FggAgHVwcK/view?usp=sharing)
-- [Oracle Cloud Infrastructure 2022](https://drive.google.com/file/d/1vkA-I068KFChWC3aMNF4Lxj96ficf0Po/view?usp=sharing)
-- [Profitable Developer](https://drive.google.com/file/d/1IJLURBtGE5aD_AZkzTGGOKkvY5RuOGzy/view?usp=sharing)
-- [SQL and Relational databases 101](https://drive.google.com/file/d/1zgxK12UYkGCmlrQCQ3vyt58hf8MzXWtH/view?usp=sharing)
-- [Tech 101 Webinar](https://drive.google.com/file/d/1GyfvhgCB-EXATCCJ-WmtkFgNipHOo0hS/view?usp=sharing)
-- [Ubuntu Fundamentals](https://drive.google.com/file/d/1RhiZL-hei0cIQtQivqwF87w8NtmC6Ivw/view?usp=sharing)
-- [Version Control Webinar](https://drive.google.com/file/d/1k_FLfp7x_Yx00dXy9NQGHu3ihUcXqrSY/view?usp=sharing)
+- [Business Analytics with Excel](https://drive.google.com/file/d/1l9MuJqzNFf2IBc0FfgU9UWl7jhssfGaY/view?usp=sharing)
+- [Data Manipulation in SQL](https://drive.google.com/file/d/1scoFeu6hdoiYU3JYqYfinOcoj8zVEH84/view?usp=sharing)
+- [Data Analytics Essentials](https://drive.google.com/file/d/1IdSOmXcZkweqzaZjcetTm6PA4yczICQd/view?usp=sharing)
+- [FCF - Introduction to the Threat Landscape](https://drive.google.com/file/d/1OPBOemD8USgfwpKYfMAYQNT2ZQY-Vcnj/view?usp=sharing)
+- [Intermediate SQL](https://drive.google.com/file/d/1TdWCl2cVjXZA0Ceix7vtiSCqq47ztyWj/view?usp=sharing)
+- [Intro to Programming](https://drive.google.com/file/d/1zUCnHe6s5YkafigGBsrFbpVVME9GULKv/view?usp=sharing)
+- [Intro to Python](https://drive.google.com/file/d/1YXQxrOFAPRh4V4FQzk7xu1h7fy1b915P/view?usp=sharing)
+- [Intro to SQL](https://drive.google.com/file/d/1kw7no7O5eIH6RCa38kxvpd6n7_aBjJf-/view?usp=sharing)
+- [Introduction to Cybersecurity](https://drive.google.com/file/d/1fD3rP6fFYMk4xhu8qvzVzShd7XeQ7jU1/view?usp=sharing)
+- [Basic Training on Cybersecurity and CTF Competition](https://drive.google.com/file/d/1-pl8LM2tsDVDegAIo5fQO81IhJbpRO84/view?usp=sharing)
+- [Oracle Cloud Data Management](https://drive.google.com/file/d/15Llr962W-hilm-vk2DJC5s4rMkBQytxA/view?usp=sharing)
+- [Oracle Cloud Data Infrastructure](https://drive.google.com/file/d/1Iapr1-7kpm0uELdy79o35FDmDZBMvpUm/view?usp=sharing)
+- [SQL and Relational Databases 101](https://drive.google.com/file/d/1bCCoTWvU0nkaQwR6RFr2FUdRiAooGUOM/view?usp=sharing)
 
 📫 How to reach me **maynardk.atienza@gmail.com**
 
