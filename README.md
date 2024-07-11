@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm John Maynardk Atienza</h1>
 <h3 align="center">Computer Science Student</h3>
-📫 Email: **maynardk.atienza@gmail.com**
-📞 Contact: **maynardk.atienza@gmail.com**
-   Linkedin: [https://www.linkedin.com/in/john-maynardk-atienza-a6a1b5290/](https://www.linkedin.com/in/john-maynardk-atienza-a6a1b5290/)
+- 📫 Email: maynardk.atienza@gmail.com
+- 📞 Contact: maynardk.atienza@gmail.com
+## Connect with me
+- 📫 Email: maynardk.atienza@gmail.com
+- 📞 Contact: maynardk.atienza@gmail.com
+
+- [![LinkedIn](https://www.linkedin.com/in/john-maynardk-atienza-a6a1b5290/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmaynardk&label=Profile%20views&color=0e75b6&style=flat" alt="itsmaynardk" /> </p>
 
