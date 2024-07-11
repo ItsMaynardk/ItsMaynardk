@@ -2,11 +2,12 @@
 <h3 align="center">Computer Science Student</h3>
 
 ## Connect with me
-<p>
-    📫 - Email: <a href="mailto:maynardk.atienza@gmail.com">maynardk.atienza@gmail.com</a> |
-    📞 - Contact: <a href="mailto:maynardk.atienza@gmail.com">maynardk.atienza@gmail.com</a> |
-    <a href="https://www.linkedin.com/in/john-maynardk-atienza-a6a1b5290/">LinkedIn</a>
-</p>
+📫 - Email: maynardk.atienza@gmail.com
+
+📞 - Contact: maynardk.atienza@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/john-maynardk-atienza-a6a1b5290/)
+
 
 
 
