@@ -2,20 +2,27 @@
 <h3 align="center">Computer Science Student</h3>
 
 ## Connect with me
-📫 - Email: maynardk.atienza@gmail.com
-
-📞 - Contact:09553418123
-
-<a href="https://www.linkedin.com/in/john-maynardk-atienza-a6a1b5290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3bkju1tdvzragvfq4q6si20g%3d%3d" height="30" width="40" /></a>
-<a href="https://fb.com/maynardkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maynardkk" height="30" width="40" /></a>
+<p>
+  <a href="mailto:maynardk.atienza@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
+  </a>
+  maynardk.atienza@gmail.com
+</p>
+<p>
+  <a href="tel:+1234567890" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/phone.svg" alt="Contact" height="30" width="40" />
+  </a>
+  +1234567890
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/john-maynardk-atienza-a6a1b5290/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/maynardkk" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
 </p>
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmaynardk&label=Profile%20views&color=0e75b6&style=flat" alt="itsmaynardk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmaynardk" alt="itsmaynardk" /></a> </p>
 
    ## Educational Attainment
    - College: New Era University (2021-2025) Bachelor of Science in Computer Science
