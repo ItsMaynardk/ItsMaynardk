@@ -3,13 +3,13 @@
 
 ## Connect with me
 <p>
-  <a href="mailto:maynardk.atienza@gmail.com" target="blank">
+  <a href="📫 maynardk.atienza@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
   </a>
   maynardk.atienza@gmail.com
 </p>
 <p>
-  <a href="tel:+1234567890" target="blank">
+  <a href="📞 09553418123" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/phone.svg" alt="Contact" height="30" width="40" />
   </a>
   +1234567890
@@ -48,7 +48,6 @@
 - [SQL and Relational Databases 101](https://drive.google.com/file/d/1bCCoTWvU0nkaQwR6RFr2FUdRiAooGUOM/view?usp=sharing)
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
