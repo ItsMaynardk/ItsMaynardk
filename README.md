@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmaynardk" alt="itsmaynardk" /></a> </p>
 
-   ## Educational Attainment
+  ![Educational Attainment](https://img.icons8.com/office/80/000000/graduation-cap.png)
    - College: New Era University (2021-2025) Bachelor of Science in Computer Science
    - Senior Highschool: New Era University (2018 – 2020) Information and Communications Technology
    - Junior High 	: New Era University (2013 – 2018)
