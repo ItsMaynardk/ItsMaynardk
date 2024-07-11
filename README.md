@@ -40,109 +40,48 @@
 - [Oracle Cloud Data Infrastructure](https://drive.google.com/file/d/1Iapr1-7kpm0uELdy79o35FDmDZBMvpUm/view?usp=sharing)
 - [SQL and Relational Databases 101](https://drive.google.com/file/d/1bCCoTWvU0nkaQwR6RFr2FUdRiAooGUOM/view?usp=sharing)
 
-  # 📊 Tech Achievement
-### 📈 Power BI Projects
-- [Snack Report Using Dax](https://app.powerbi.com/view?r=eyJrIjoiOGZkYzI1NGItODUyMi00ODk1LTlhZDQtODE4MjlmNTY0Y2Y2IiwidCI6IjI1ZWFlODJhLTJiYjktNDUyNC05MGM1LWE5YWNlMzczNGVlNCIsImMiOjEwfQ%3D%3D)
-- [Soda Report for the Year 2022](https://app.powerbi.com/view?r=eyJrIjoiYTY0ZTgyZDQtYTU0Zi00OWY3LTg1OGYtNzNiM2ViNjMyM2Y4IiwidCI6IjI1ZWFlODJhLTJiYjktNDUyNC05MGM1LWE5YWNlMzczNGVlNCIsImMiOjEwfQ%3D%3D)
-- []()
+ # 📊 Tech Achievements
 
-### 💻 Software Engineering Design Pattern Repository Links
+## Power BI Projects
+- [Snack Report Using DAX](https://app.powerbi.com/view?r=eyJrIjoiOGZkYzI1NGItODUyMi00ODk1LTlhZDQtODE4MjlmNTY0Y2Y2IiwidCI6IjI1ZWFlODJhLTJiYjktNDUyNC05MGM1LWE5YWNlMzczNGVlNCIsImMiOjEwfQ%3D%3D)
+- [Soda Report for the Year 2022](https://app.powerbi.com/view?r=eyJrIjoiYTY0ZTgyZDQtYTU0Zi00OWY3LTg1OGYtNzNiM2ViNjMyM2Y4IiwidCI6IjI1ZWFlODJhLTJiYjktNDUyNC05MGM1LWE5YWNlMzczNGVlNCIsImMiOjEwfQ%3D%3D)
+
+## Software Engineering Design Patterns Repositories
 - [Visitor Pattern](https://github.com/ItsMaynardk/VisitorDesignPattern)
 - [State Pattern](https://github.com/ItsMaynardk/StatePattern)
 - [Strategy Pattern](https://github.com/ItsMaynardk/StrategyPattern)
 - [Builder Pattern](https://github.com/ItsMaynardk/BuilderPattern)
 - [Decorator Pattern](https://github.com/ItsMaynardk/DecoratorPattern)
 
-# Skill Set
+# Skills
 
 ## Data Visualization Tools
-<p align="left">
-  <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="40" height="40" />
-  </a>
-  <a href="https://public.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" width="40" height="40" />
-  </a>
-</p>
+- [Power BI](https://powerbi.microsoft.com/en-us/desktop/)
+- [Tableau](https://public.tableau.com/)
 
 ## Programming Languages
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-</p>
+- [Java](https://www.java.com)
+- [Python](https://www.python.org)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [PHP](https://www.php.net)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## DBMS
-<p align="left">
-  <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer">
-    <img src="https://www.db2tutorial.com/wp-content/uploads/2019/03/db2-tutorial.png" alt="DB2" width="40" height="40" />
-  </a>
-</p>
+## Database Management Systems (DBMS)
+- [IBM DB2](https://www.ibm.com/products/db2)
 
-## Dev Tools
-<p align="left">
-  <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7b9P_feX1yThfg-k6-N0TyGHKMa5a7YusA&s" alt="Lucidchart" width="40" height="40" />
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Eclipse" width="40" height="40" />
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" alt="Visual Studio" width="40" height="40" />
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Android Studio" width="40" height="40" />
-  </a>
-</p>
+## Development Tools
+- [Lucidchart](https://www.lucidchart.com/)
+- [Eclipse](https://www.eclipse.org/)
+- [Visual Studio Code](https://visualstudio.microsoft.com/)
+- [Android Studio](https://developer.android.com/studio)
 
-<p align="left">
-  <h3 align="left">Languages and Tools:</h3>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-  </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmaynardk&show_icons=true&locale=en&layout=compact" alt="itsmaynardk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmaynardk&show_icons=true&locale=en" alt="itsmaynardk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmaynardk&" alt="itsmaynardk" /></p>
+## Other Languages and Tools
+- [Figma](https://www.figma.com/)
+- [Git](https://git-scm.com/)
+- [Linux](https://www.linux.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server)
+- [MySQL](https://www.mysql.com/)
+- [Oracle](https://www.oracle.com/)
+- [Adobe Photoshop](https://www.photoshop.com/en)
+- [Unity](https://unity.com/)
